@@ -1,0 +1,135 @@
+.logo {
+    background-image: url("logo.png");
+    position: absolute;
+    left: 99px;
+    top: 11px;
+    width: 157px;
+    height: 190px;
+    z-index: 23;
+  }
+  
+  .title {
+    text-align: left;
+    font-size: 50px;
+    font-family: "Myriad Pro";
+    color: rgb(59, 153, 255);
+    line-height: 0.5;
+    position: absolute;
+    left: 272.938px;
+    top: 45px;
+    width: 357px;
+    height: 47px;
+    z-index: 13;
+  }
+  
+  .subtitle {
+    font-size: 16.667px;
+    text-align: left;
+    font-family: "Myriad Pro";
+    color: rgb(59, 153, 255);
+    line-height: 1.5;
+    position: absolute;
+    left: 274.938px;
+    top: 95px;
+    z-index: 14;
+  }
+  
+  .menu {
+    size: 50%;
+    border-radius: 50%;
+    position: relative;
+    left: 1167px;
+    top: 32px;
+    width: 90px;
+    height: 90px;
+    z-index: 28;
+  }
+
+  .background_title {
+    background-image: url("background_title.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+
+    left: 0px;
+    top: 60px;
+    width: 1366px;
+    height: 827px;
+    z-index: 2;
+  }
+  
+  .title1{
+    font-size: 50px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    position: relative;
+    left: 493.938px;
+    top: 150px;
+    width: 421px;
+    height: 47px;
+    z-index: 15;
+  }
+  .text1{
+    font-size: 25px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: center;
+    position: relative;
+    left: 126.447px;
+    top: 220px;
+    width: 1080px;
+    height: 144px;
+    z-index: 16;
+  }
+
+  .button {
+    border-width: 4.167px;
+    border-color: rgb(255, 255, 255);
+    border-style: dotted;
+    border-radius: 30px;
+    background-color: rgb(253, 253, 253);
+    opacity: 0.349;
+    position: relative;
+    top: 561px;
+    align-items: center;
+    z-index: 17;
+  }
+  
+
+  .title2 {
+    margin-top:  5%;
+    position: relative;
+    font-size: x-large;
+    font-family: "Myriad Pro";
+    color: rgb(59, 153, 255);
+    line-height: 1.2;
+    text-align: center;
+    left: 452.723px;
+    top: 1000px;
+    width: 441px;
+    height: 43px;
+    z-index: 29;
+  }
+
+  .text2 {
+    font-size: 25px;
+    font-family: "Myriad Pro";
+    color: rgb(0, 0, 0);
+    line-height: 1.2;
+    text-align: justifyLeft;
+    position: relative;
+    left: 117.375px;
+    top: 1100px;
+    width: 200px;
+    height: 175px;
+    z-index: 31;
+  }
+  
+  
+  
+  
+  
+  
+  
